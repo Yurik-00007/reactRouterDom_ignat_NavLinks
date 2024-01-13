@@ -37,6 +37,18 @@
   }
 }
 
+.nav{
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.context{
+  border: 2px solid gray;
+  margin: 10px;
+height: 70vh;
+  background-color: #e1fad9;
+}
+
 .def{
   background-color:aquamarine;
 }
